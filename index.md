@@ -1,8 +1,8 @@
-<DOCTYPE! html> 
+<!--<DOCTYPE! html> -->
 <html>
 <head>
 <meta charset="utf-8">
-<title>Quorra's Software Shack</title>
+<!--<title>Quorra's Software Shack</title>-->
 <style>
 td, th { border: 1px solid #CCC; }
 table { border: 1px solid black; }
