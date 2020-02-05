@@ -51,9 +51,9 @@ table { border: 1px solid black; }
 
 <table>
 <tr>
-
-	<th>NAME</th>     
-	<th>VERSION</th>             
+<tr>
+	<th>NAME</th>   
+	<th>VERSION</th>    
 	<th>TYPE</th>
 	</tr>
 <tr>
