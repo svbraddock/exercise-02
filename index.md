@@ -55,7 +55,7 @@ table { border: 1px solid black; }
 	<th>NAME</th>     
 	<th>VERSION</th>             
 	<th>TYPE</th>
-</tr>
+	</tr>
 <tr>
 	<td>macOS</td>    
 	<td>10.13 (High Sierra)</td>  
