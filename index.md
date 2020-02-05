@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <!--<title>Quorra's Software Shack</title>-->
-<style>
+<!-- <style> 
 td, th { border: 1px solid #CCC; }
 table { border: 1px solid black; }
-</style>
+</style> -->
 </head>
 <body>
 <h1>Quorra's Software Shack</h1>
@@ -52,9 +52,9 @@ table { border: 1px solid black; }
 <table>
 <tr>
 
-	<!--<th>NAME</th>     
+	<!-- <th>NAME</th>     
 	<th>VERSION</th>             
-	<th>TYPE</th>-->
+	<th>TYPE</th> -->
 </tr>
 <tr>
 	<td>macOS</td>    
